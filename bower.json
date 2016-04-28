@@ -6,7 +6,7 @@
     "Ralph Thomas"
   ],
   "description": "Super fast physics simulations for JavaScript",
-  "main": "src/index.js",
+  "main": "dist/gravitas.js",
   "moduleType": [
     "amd",
     "es6",
